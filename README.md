@@ -1,1 +1,1 @@
-A Machine Learning 
+A Machine Learning project on customer segmentation in finance sector.
